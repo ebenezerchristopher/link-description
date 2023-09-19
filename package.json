@@ -1,0 +1,19 @@
+{
+  "name": "@stacktraceinc/link-description",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fullstacker (for stacktrace)",
+  "license": "ISC",
+
+   "dependencies": {
+   
+    "@ckeditor/ckeditor5-core": "^39.0.1",
+    "@ckeditor/ckeditor5-ui": "^39.0.1",
+    "@ckeditor/ckeditor5-utils": "^39.0.1"
+   
+}
+}
